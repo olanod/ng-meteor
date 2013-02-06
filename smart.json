@@ -1,0 +1,11 @@
+{
+	"name": "ng",
+	"description": "AngularJs for Meteor with blade templates",
+	"homepage": "https://github.com/olanod/ng-meteor",
+	"author": "olanod",
+	"git": "https://github.com/olanod/ng-meteor.git",
+	"version": "0.1.0",
+	"packages": {
+		"blade": {}
+	}
+}
