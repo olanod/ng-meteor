@@ -4,8 +4,9 @@
     "branch": "master"
   },
   "packages": {
-      "ng": {
-      	"path": "../"
-      }
+    "ng": {
+      "path": "../"
+    },
+    "blade": {}
   }
 }

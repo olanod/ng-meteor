@@ -2,22 +2,23 @@
   "meteor": {
     "git": "https://github.com/meteor/meteor.git",
     "branch": "master",
-    "commit": "4d98d8cb4e5a95e9e98953f44c872c9332a042a3"
+    "commit": "1dfc7171f237a029cca74cbf25024acbf6ed5b75"
   },
   "dependencies": {
     "basePackages": {
       "ng": {
-        "path": "../"
-      }
+        "path": ".."
+      },
+      "blade": {}
     },
     "packages": {
       "ng": {
-        "path": "../"
+        "path": ".."
       },
       "blade": {
-        "git": "https://github.com/bminer/node-blade.git",
-        "tag": "v3.0.0beta7",
-        "commit": "8efd128495b17191215a7b2c1837848ea1511b44"
+        "git": "https://github.com/bminer/meteor-blade.git",
+        "tag": "v3.2.2meteor2",
+        "commit": "1d7e6fd1287261a8f14da88e3ad829eb3195ef95"
       }
     }
   }

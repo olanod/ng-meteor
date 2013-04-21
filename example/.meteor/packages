@@ -6,7 +6,8 @@
 autopublish
 insecure
 preserve-inputs
-ng
 stylus
 coffeescript
 blade
+ng
+
