@@ -4,8 +4,6 @@
 	"homepage": "https://github.com/olanod/ng-meteor",
 	"author": "olanod",
 	"git": "https://github.com/olanod/ng-meteor.git",
-	"version": "0.1.0",
-	"packages": {
-		"blade": {}
-	}
+	"version": "0.1.1",
+	"packages": {}
 }

@@ -1,7 +1,7 @@
 angular.element(document).ready ->
   angular.bootstrap document, ['app']
 
-angular.module 'app', ['ngMeteor'], ['$routeProvider','$locationProvider',($routeProvider,$locationProvider) ->
+app = angular.module 'app', ['ngMeteor'], ['$routeProvider','$locationProvider',($routeProvider,$locationProvider) ->
   $routeProvider.when '/',
     templateUrl: 'welcome.blade'
   $routeProvider.when '/more',
